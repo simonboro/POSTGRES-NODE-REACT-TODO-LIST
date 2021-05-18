@@ -1,0 +1,6 @@
+How to run my project step by step:
+1. Create database in postgres using indicates in file "database.sql"
+2. Set properly data in db.js to connect with database
+3. Open "server" folder in console and run it using "nodemon index.js"
+4. Open "client" folder in console and run it using "npm start"
+5. Enjoy using the project :)
